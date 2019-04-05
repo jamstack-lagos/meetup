@@ -2,6 +2,7 @@
 Handle CFPs and location submissions for the JAMstack Lagos meetup group.
 
 ## Interested in Speaking?
+We are happy to have you interested in speaking. 
 Kindly create a new issue on this repository with a title of **Talk Proposal - 'Title of Talk'** and the following details:
 
 - Title of talk
@@ -18,5 +19,5 @@ On submission of a talk, we would review it and either accept or reject it as a 
 
 
 ## Interested in sponsoring?
-Are you interested in sponsoring any of the meetups? Reach out to us via email on jamstacklagos@gmail.com.
+Are you interested in sponsoring any of the meetups? Do you have a space we could use? Reach out to us via email on jamstacklagos@gmail.com, we'll be glad to talk to you.
 
